@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Hello, here are some of my past coding Projects
 ---
 
